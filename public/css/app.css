@@ -1,19 +1,18 @@
 body {
 	font-family: 'Raleway', sans-serif;
-	font-size: 18px;
+	font-size: 20px;
 }
 
-h1 {font-size: 26px;}
-h2 {font-size: 24px;}
+h1 {font-size: 38px;} /* Liturgia Horarum */
+h2 {font-size: 30px; margin-top: 44px} /* Ad Laudes */
+h3 {font-size: 24px; margin-top: 26px;} /* Hymnus, Psalmodia */
+h4 {font-size: 20px;} /* Psalmus */
 
-.navbar {
-	margin-bottom: 0;
-}
+p {margin: 18px 0;}
 
-.page-header {
-	margin: 26px 0 18px;
-}
+.navbar {margin-bottom: 0;}
 
-.gap-16 {
-	margin-top: 16px;
-}
+.gap-16 {margin-top: 16px;}
+
+.bold {font-weight: bold;}
+.red {color: red;}

@@ -249,14 +249,14 @@ class IndexController extends Controller
         else {$hora = 'completorium';}
 
 
-
-		// importa o conteúdo multilíngue
+/*
+// importa o conteúdo multilíngue
 //  $varietasQuery = "SELECT * FROM lh_varietates WHERE lingua = '$lingua'";
 //  $varietasResult = mysql_query($varietasQuery) or die(mysql_error());
 //  $varietas = mysql_fetch_array($varietasResult);
     $varietas = ['feria_sexta' => 'Sexta-Feira', 'martius' => 'Março', 'liturgia_horarum' => 'Liturgia das Horas', 'hebdomada' => 'Semana', 'tempus' => 'Quaresma', 'psalterii' => 'Saltério'];
 
-/*
+
 
   // determina o dia da semana por extenso para ser impresso no início da página
   if ($dies_hebdomadis == 7) {$N = $varietas['dominica'];}
