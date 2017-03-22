@@ -6,14 +6,14 @@
         <div class="col-xs-12">
             <h1>Liturgia Horarum</h1>
 
-            <p>
+            <!-- p>
                 17 de Março de 2017<br>
                 Anno A, Cyclus I<br>
                 Tempus Quadragesimæ<br>
                 Hebdomada II<br>
                 Psalterium II<br>
                 Feria Sexta<br>
-            </p>
+            </p -->
 
             <h2>Ad Invitatorium</h2>
 
@@ -28,13 +28,19 @@
             </p>
 
             <p>
-                <span class="red">Psalmus 94 (95)</span><br>
-                <span class="bold">Invitatio ad laudem Dei</span><br>
-                <em class="">Adhortamini vosmetipsos per singulos dies, donec illud "hodie" vocatur.</em> <small>(Hebr 3, 13)</small>
+                <span class="red">
+                    Psalmus 94 (95)
+                </span><br>
+
+                <span class="light">
+                    Invitatio ad laudem Dei<br>
+                    <em>Adhortamini vosmetipsos per singulos dies, donec illud "hodie" vocatur.</em>
+                    <small>(Hebr 3, 13)</small>
+                </span>
             </p>
 
             <p>
-                Veníte, exsultémus Dómino;<br>
+                Veníte, exsultémus Dómino,<br>
                 iubilémus Deo salutári nostro.<br>
                 Præoccupémus fáciem eius in confessióne<br>
                 et in psalmis iubilémus ei.
@@ -124,14 +130,20 @@
             </p>
 
             <p>
-                <span class="red">Psalmus 37 (38)</span><br>
-                <span class="bold">Obsecratio peccatoris in extremo periculo constituti</span><br>
-                <em>Stabant omnes noti eius a longe.</em> <small>(Lc 23, 49)</small>
+                <span class="red">
+                    Psalmus 37 (38)
+                </span><br>
+
+                <span class="light">
+                    Obsecratio peccatoris in extremo periculo constituti<br>
+                    <em>Stabant omnes noti eius a longe.</em>
+                    <small>(Lc 23, 49)</small>
+                </span><br>
             </p>
 
-            <span class="bold red">I</span>
-
-            </p>
+            <span class="red">
+                I
+            </span>
 
             <p>
                 Dómine, ne in furóre tuo árguas me,*<br>
@@ -161,7 +173,9 @@
                 Dómine, ante te omne desidérium meum.
             </p>
 
-            <span class="bold red">II</span>
+            <span class="red">
+                II
+            </span>
 
             <p>
                 Putruérunt et corrúpti sunt livóres mei*<br>
