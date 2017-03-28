@@ -104,3 +104,17 @@
 
 </body>
 </html>
+
+<!--
+
+       Invitatorium + Ad Officium Lectionis + Laudes
+    1) Invitatorium + Ad Officium Lectionis (=officium_lectionis)
+    2) Invitatorium + Laudes                (=laudes)
+       Laudes
+    3) Hora Tertia                          (=hora_tertia)
+    4) Hora Sexta                           (=hora_sexta)
+    5) Hora Nona                            (=hora_nona)
+       Ad Officium Lectionis
+    6) Ad Vesperas                          (=vesperas)
+    7) Completorium                         (=completorium)
+-->

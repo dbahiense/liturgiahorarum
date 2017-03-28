@@ -24,7 +24,7 @@
 
             <p>
                 <span class="red">Antiphon:</span><br>
-                Christum Dóminum, pro nobis tentátum et passum, veníte, adorémus.
+                Præoccupémus fáciem Dómini in confessióne.
             </p>
 
             <p>
@@ -32,10 +32,15 @@
                     Psalmus 94 (95)
                 </span><br>
 
-                <span class="light">
-                    Invitatio ad laudem Dei<br>
-                    <em>Adhortamini vosmetipsos per singulos dies, donec illud "hodie" vocatur.</em>
-                    <small>(Hebr 3, 13)</small>
+                <span class="small">
+                    <strong>
+                        Invitatio ad laudem Dei    
+                    </strong><br>
+
+                    <em>
+                        Adhortamini vosmetipsos per singulos dies, donec illud "hodie" vocatur.
+                    </em>
+                        (Hebr 3, 13)
                 </span>
             </p>
 
@@ -89,55 +94,142 @@
                 Christum Dóminum, pro nobis tentátum et passum, veníte, adorémus.
             </p>
 
+
+
+
             <h2>Ad Officium Lectionis</h2>
 
+            <p>
+                <span class="red">V/.</span> Dómine, lábia mea apéries.<br>
+                <span class="red">R/.</span> Et os meum annuntiábit laudem tuam.
+            </p>
+
+            <p>
+                Glória Patri, et Fílio, et Spirítui Sancto.<br>
+                Sicut erat in princípio, et nunc et semper, et in sæcula sæculórum. Amen.
+            </p>
+
             <h3 class="red">Hymnus</h3>
+            <!-- if day $hymnus = A; if night $hymnus = B -->
 
             <p>
-                Nunc tempus acceptábile<br>
-                fulget datum divínitus,<br>
-                ut sanet orbem lánguidum<br>
-                medéla parsimóniæ.
+                Somno reféctis ártubus,<br>
+                spreto cubíli, súrgimus:<br>
+                nobis, Pater, canéntibus<br>
+                adésse te depóscimus.
             </p>
 
             <p>
-                Christi decóro lúmine<br>
-                dies salútis émicat,<br>
-                dum corda culpis sáucia<br>
-                refórmat abstinéntia.
+                Te lingua primum cóncinat,<br>
+                te mentis ardor ámbiat,<br>
+                ut áctuum sequéntium<br>
+                tu, sancte, sis exórdium.
             </p>
 
             <p>
-                Hanc mente nos et córpore,<br>
-                Deus, tenére pérfice,<br>
-                ut appetámus próspero<br>
-                perénne pascha tránsitu.
+                Cedant tenébræ lúmini<br>
+                et nox diúrno síderi,<br>
+                ut culpa, quam nox íntulit,<br>
+                lucis labáscat múnere.
             </p>
 
             <p>
-                Te rerum univérsitas,<br>
-                clemens, adóret, Trínitas,<br>
-                et nos novi per véniam<br>
-                novum canámus cánticum. Amen.
+                Precámur ídem súpplices<br>
+                noxas ut omnes ámputes,<br>
+                et ore te canéntium<br>
+                laudéris in perpétuum.
             </p>
 
+            <p>
+                Præsta, Pater piíssime,<br>
+                Patríque compar Unice,<br>
+                cum Spíritu Paráclito<br>
+                regnans per omne sæculum. Amen.
+            </p>
 
             <h3 class="red">Psalmodia</h3>
 
             <p>
                 <span class="red">Antiphon I:</span><br>
-                Ne in ira tua corrípias me, Dómine.
+                Salvum me fac, Dómine, propter misericórdiam tuam.
             </p>
 
             <p>
                 <span class="red">
-                    Psalmus 37 (38)
+                    Psalmus 6
                 </span><br>
 
                 <span class="light">
-                    Obsecratio peccatoris in extremo periculo constituti<br>
-                    <em>Stabant omnes noti eius a longe.</em>
-                    <small>(Lc 23, 49)</small>
+                    Homo afflictus Domini clementiam implorat<br>
+                    <em>Nunc anima mea turbata est ... Pater, salvifica me ex hora hac?</em>
+                    <small>(Io 12, 27)</small>
+                </span><br>
+            </p>
+
+            <span class="red">
+            </span>
+
+            <p>
+                Dómine, ne in furóre tuo árguas me,*<br>
+                neque in ira tua corrípias me.
+            </p>
+
+            <p>
+                Miserére mei, Dómine, quóniam infírmus sum;*<br>
+                sana me, Dómine,<br>
+                quóniam conturbáta sunt ossa mea.<br>
+                Et ánima mea turbáta est valde,*<br>
+                sed tu, Dómine, úsquequo?
+            </p>
+
+            <p>
+                Convértere, Dómine, éripe ánimam meam;*<br>
+                salvum me fac propter misericórdiam tuam.<br>
+                Quóniam non est in morte, qui memor sit tui,*<br>
+                in inférno autem quis confitébitur tibi?
+            </p>
+
+            <p>
+                Laborávi in gémitu meo,†<br>
+                lavábam per síngulas noctes lectum meum;*<br>
+                lácrimis meis stratum meum rigábam.<br>
+                Turbátus est a mæróre óculus meus,*<br>
+                inveterávi inter omnes inimícos meos.
+            </p>
+
+            <p>
+                Discédite a me omnes, qui operámini iniquitátem,*<br>
+                quóniam exaudívit Dóminus vocem fletus mei.<br>
+                Exaudívit Dóminus deprecatiónem meam,*<br>
+                Dóminus oratiónem meam suscépit.
+            </p>
+
+            <p>
+                Erubéscant et conturbéntur veheménter<br>
+                omnes inimíci mei;*<br>
+                convertántur et erubéscant valde velóciter.
+            </p>
+
+
+            <p>
+                <span class="red">Antiphon:</span><br>
+                Salvum me fac, Dómine, propter misericórdiam tuam.
+            </p>
+
+            <p>
+                <span class="red">Antiphon II:</span><br>
+                Factus est Dóminus refúgium páuperi in tribulatióne.
+            </p>
+
+            <p>
+                <span class="red">
+                    Psalmus 9A (9)
+                </span><br>
+
+                <span class="light">
+                    Gratiarum actio pro victoria<br>
+                    <em>Iterum venturus est iudicare vivos et mortuos.</em>
+                    <small></small>
                 </span><br>
             </p>
 
@@ -146,57 +238,28 @@
             </span>
 
             <p>
-                Dómine, ne in furóre tuo árguas me,*<br>
-                neque in ira tua corrípias me,<br>
-                quóniam sagíttæ tuæ infíxæ sunt mihi,*<br>
-                et descéndit super me manus tua.
+                Confitébor tibi, Dómine, in toto corde meo,*<br>
+                narrábo ómnia mirabília tua.<br>
+                Lætábor et exsultábo in te,*<br>
+                psallam nómini tuo, Altíssime.
             </p>
 
             <p>
-                Non est sánitas in carne mea<br>
-                a fácie indignatiónis tuæ,*<br>
-                non est pax óssibus meis<br>
-                a fácie peccatórum meórum.<br>
-                Quóniam iniquitátes meæ<br>
-                supergréssæ sunt caput meum*<br>
-                et sicut onus grave gravant me nimis.
-            </p>
-
-
-            <p>
-                <span class="red">Antiphon:</span><br>
-                Ne in ira tua corrípias me, Dómine.
+                Cum convertúntur inimíci mei retrórsum,*<br>
+                infirmántur et péreunt a fácie tua.+<br>
+                Quóniam fecísti iudícium meum<br>
+                et causam meam,*<br>
+                sedísti super thronum, qui iúdicas iustítiam.
             </p>
 
             <p>
-                <span class="red">Antiphon II:</span><br>
-                Dómine, ante te omne desidérium meum.
-            </p>
-
-            <span class="red">
-                II
-            </span>
-
-            <p>
-                Putruérunt et corrúpti sunt livóres mei*<br>
-                a fácie insipiéntiæ meæ.<br>
-                Inclinátus sum et incurvátus nimis;*<br>
-                tota die contristátus ingrediébar.
-            </p>
-
-            <p>
-                Quóniam lumbi mei impléti sunt ardóribus,*<br>
-                et non est sánitas in carne mea.<br>
-                Afflíctus sum et humiliátus sum nimis,*<br>
-                rugiébam a gémitu cordis mei.
-            </p>
-
-            <p>
-                Dómine, ante te omne desidérium meum,*<br>
-                et gémitus meus a te non est abscónditus.<br>
-                Palpitávit cor meum, derelíquit me virtus mea,*<br>
-                et lumen oculórum meórum,<br>
-                et ipsum non est mecum.
+                Increpásti gentes, perdidísti ímpium;*<br>
+                nomen eórum delésti<br>
+                in ætérnum et in sæculum sæculi.*<br>
+                Inimíci defecérunt,<br>
+                solitúdines sempitérnæ factæ sunt;*<br>
+                et civitátes destruxísti: +<br>
+                périit memória eórum cum ipsis.
             </p>
 
             <p>
@@ -211,37 +274,55 @@
             </p>
 
             <p>
+                Dóminus autem in ætérnum sedébit,*<br>
+                parávit in iudícium thronum suum<br>
+                et ipse iudicábit orbem terræ in iustítia,*<br>
+                iudicábit pópulos in æquitáte.
+            </p>
+
+            <p>
+                Et erit Dóminus refúgium opprésso,*<br>
+                refúgium in opportunitátibus, in tribulatióne.<br>
+                Et sperent in te, qui novérunt nomen tuum,*<br>
+                quóniam non dereliquísti quæréntes te, Dómine.
+            </p>
+
+            <p>
                 <span class="red">Antiphon:</span><br>
-                Dómine, ante te omne desidérium meum.
+                Factus est Dóminus refúgium páuperi in tribulatióne.
             </p>
 
             <p>
                 <span class="red">Antiphon III:</span><br>
-                Iniquitátem meam annuntiábo tibi; ne derelínquas me, Dómine, salus mea.
+                Annuntiábo laudatiónes tuas in portis fíliæ Sion.
             </p>
 
-            <span class="bold red">III</span>
+            <span class=" red">II</span>
 
             <p>
-                Ego autem tamquam surdus non audiébam*<br>
-                et sicut mutus non apériens os suum;<br>
-                et factus sum sicut homo non áudiens*<br>
-                et non habens in ore suo redargutiónes.
-            </p>
-
-            <p>
-                Quóniam in te, Dómine, sperávi,*<br>
-                tu exáudies, Dómine Deus meus.<br>
-                Quia dixi: «Nequándo supergáudeant mihi;*<br>
-                dum commovéntur pedes mei,<br>
-                magnificántur super me».
+                Psállite Dómino, qui hábitat in Sion;*<br>
+                annuntiáte inter gentes stúdia eius. +<br>
+                Quóniam requírens sánguinem<br>
+                recordátus est eórum,*<br>
+                non est oblítus clamórem páuperum.
             </p>
 
             <p>
-                Quóniam ego in lapsum parátus sum,*<br>
-                et dolor meus in conspéctu meo semper.<br>
-                Quóniam iniquitátem meam annuntiábo*<br>
-                et sollícitus sum de peccáto meo.
+                Miserére mei, Dómine;†<br>
+                vide afflictiónem meam de inimícis meis,*<br>
+                qui exáltas me de portis mortis,<br>
+                ut annúntiem omnes laudatiónes tuas<br>
+                in portis fíliæ Sion,*<br>
+                exsúltem in salutári tuo.
+            </p>
+
+            <p>
+                Infíxae sunt gentes in fóvea, quam fecérunt;†<br>
+                in láqueo isto, quem abscondérunt,*<br>
+                comprehénsus est pes eórum.<br>
+                Manifestávit se Dóminus iudícium fáciens;*<br>
+                in opéribus mánuum suárum<br>
+                comprehénsus est peccátor.
             </p>
 
             <p>
@@ -252,33 +333,114 @@
             </p>
 
             <p>
-                Ne derelínquas me, Dómine;*<br>
-                Deus meus, ne discésseris a me.<br>
-                Festína in adiutórium meum,*<br>
-                Dómine, salus mea.
+                Converténtur peccatóres in inférnum,*<br>
+                omnes gentes, quæ obliviscúntur Deum.<br>
+                Quóniam non in finem oblívio erit páuperis;*<br>
+                exspectátio páuperum non períbit in ætérnum.
+            </p>
+
+            <p>
+                Exsúrge, Dómine, non confortétur homo;*<br>
+                iudicéntur gentes in conspéctu tuo.<br>
+                Constítue, Dómine, terrórem super eos,*<br>
+                sciant gentes quóniam hómines sunt.
             </p>
 
             <p>
                 <span class="red">Antiphon:</span><br>
-                Iniquitátem meam annuntiábo tibi; ne derelínquas me, Dómine, salus mea.
+                Annuntiábo laudatiónes tuas in portis fíliæ Sion.
             </p>
 
-
             <p>
-                <span class="red">V/.</span> Convertímini ad Dóminum Deum vestrum.<br>
-                <span class="red">R/.</span> Quia benígnus et miséricors est.
+                <span class="red">V/.</span> Da mihi intelléctum, et servábo legem tuam.<br>
+                <span class="red">R/.</span> Et custódiam illam in toto corde meo.
             </p>
 
             <h3 class="red">Lectio Prior</h3>
 
             <p>
-                <span class="red">De libro Exodi <small>(19, 1-19; 20, 18-21)</small></span><br>
-                <span class="bold">Promissio fœderis et apparitio Domini in Sinai</span>
+                <span class="red">Incipit liber Sirácidæ <small>(1, 1-25)</small></span><br>
+                <span class="">Divinae sapientiæ mysterium</span>
             </p>
 
             <p>
-                Mense tértio egressiónis Israel de terra Ægýpti, in die hac venérunt in solitúdinem Sínai. Nam profécti de Ráphidim et perveniéntes usque in desértum Sínai, castrametáti sunt in eódem loco, ibíque Israel fixit tentória e regióne montis (...).
+                Omnis sapiéntia a Dómino Deo est et cum illo fuit semper et est ante ævum. Arénam maris et plúviæ guttas et dies sæculi quis dinumerávit? Altitúdinem cæli et latitúdinem terræ et profúndum abýssi quis mensus est? Sapiéntiam Dei præcedéntem ómnia quis investigávit? Prior ómnium creáta est sapiéntia, et intelléctus prudéntiæ ab ævo. Fons sapiéntiæ verbum Dei in excélsis, et ingréssus illíus mandáta ætérna. Radix sapiéntiæ cui reveláta est? Et astútias illíus quis agnóvit?
             </p>
+
+            <p>
+                Disciplína sapiéntiæ cui reveláta est et manifestáta? Et multíplicem perítiam illíus quis intelléxit? Unus est Altíssimus, creátor omnípotens et rex potens et metuéndus nimis, sedens super thronum suum et dóminans, Deus. Ipse creávit illam in spíritu sancto et vidit et dinumerávit et mensus est; et effúdit illam super ómnia ópera sua et super omnem carnem secúndum largitátem suam et præbuit illam diligéntibus se.
+            </p>
+
+            <p>
+                Timor Dómini glória et gloriátio et lætítia et coróna exsultatiónis. Timor Dómini delectábit cor et dabit lætítiam et gáudium et longitúdinem diérum. Timénti Dóminum bene erit in extrémis et in die defunctiónis suæ benedicétur. Diléctio Dei honorábilis sapiéntia; quibus autem apparúerit, dispértit eam in visiónem sui ipsíus et in agnitióne magnálium suórum.
+            </p>
+
+            <p>
+                Inítium sapiéntiæ timor Dómini et cum fidélibus in vulva concreáta est; cum homínibus veritátis ab ævo fundáta est et sémini eórum se credet. Timor Dómini sciéntiæ religiósitas; religiósitas custódiet et iustificábit cor, iucunditátem atque gáudium dabit. Plenitúdo sapiéntiæ est timére Deum; et inébriat eos frúctibus suis. Omnem domum illíus implébit rebus pretiósis et receptácula thesáuris illíus.
+            </p>
+
+            <p>
+                Coróna sapiéntiæ timor Dómini, repóllens pacem et salútis fructum: utráque autem sunt dona Dei. Sciéntiam et intelléctum prudéntiæ sapiéntia effúndit quasi plúviam; et glóriam tenéntium se exáltat. Radix sapiéntiæ est timére Dóminum, et rami illíus longævi.
+            </p>
+
+            <h3 class="red">Responsorium <small>(Sir 1, 7a. 10. 1a. 9a)</small></h3>
+
+            <p>
+                <span class="red">R/.</span> Disciplína sapiéntiæ cui reveláta est et manifestáta? Altíssimus effúdit illam super omnem carnem,<br>
+                * Et præbuit illam diligéntibus se.<br>
+                <span class="red">V/.</span> Omnis sapiéntia a Dómino Deo est, ipse creávit illam in Spíritu Sancto.<br>
+                * Et præbuit illam diligéntibus se.
+            </p>
+
+            <h3 class="red">Lectio Altera</h3>
+
+            <p>
+                <span class="red">
+                    Ex Epístola sancti Cleméntis papæ Primi ad Corínthios
+                    <small>
+                        (Nn. 59, 2 — 60, 4; 61, 3: Funk 1, 135-141)
+                    </small>
+                </span><br>
+
+                <span class="">Divinae sapientiæ mysterium</span>
+            </p>
+
+            <p>
+                Omnis sapiéntia a Dómino Deo est et cum illo fuit semper et est ante ævum. Arénam maris et plúviæ guttas et dies sæculi quis dinumerávit? Altitúdinem cæli et latitúdinem terræ et profúndum abýssi quis mensus est? Sapiéntiam Dei præcedéntem ómnia quis investigávit? Prior ómnium creáta est sapiéntia, et intelléctus prudéntiæ ab ævo. Fons sapiéntiæ verbum Dei in excélsis, et ingréssus illíus mandáta ætérna. Radix sapiéntiæ cui reveláta est? Et astútias illíus quis agnóvit?
+
+                Disciplína sapiéntiæ cui reveláta est et manifestáta? Et multíplicem perítiam illíus quis intelléxit? Unus est Altíssimus, creátor omnípotens et rex potens et metuéndus nimis, sedens super thronum suum et dóminans, Deus. Ipse creávit illam in spíritu sancto et vidit et dinumerávit et mensus est; et effúdit illam super ómnia ópera sua et super omnem carnem secúndum largitátem suam et præbuit illam diligéntibus se.
+
+                Timor Dómini glória et gloriátio et lætítia et coróna exsultatiónis. Timor Dómini delectábit cor et dabit lætítiam et gáudium et longitúdinem diérum. Timénti Dóminum bene erit in extrémis et in die defunctiónis suæ benedicétur. Diléctio Dei honorábilis sapiéntia; quibus autem apparúerit, dispértit eam in visiónem sui ipsíus et in agnitióne magnálium suórum.
+
+                Inítium sapiéntiæ timor Dómini et cum fidélibus in vulva concreáta est; cum homínibus veritátis ab ævo fundáta est et sémini eórum se credet. Timor Dómini sciéntiæ religiósitas; religiósitas custódiet et iustificábit cor, iucunditátem atque gáudium dabit. Plenitúdo sapiéntiæ est timére Deum; et inébriat eos frúctibus suis. Omnem domum illíus implébit rebus pretiósis et receptácula thesáuris illíus.
+
+                Coróna sapiéntiæ timor Dómini, repóllens pacem et salútis fructum: utráque autem sunt dona Dei. Sciéntiam et intelléctum prudéntiæ sapiéntia effúndit quasi plúviam; et glóriam tenéntium se exáltat. Radix sapiéntiæ est timére Dóminum, et rami illíus longævi.
+            </p>
+
+            <h3 class="red">Responsorium <small>(Ps 76 (77), 14b-16)</small></h3>
+
+            <p>
+                <span class="red">R/.</span> Quis Deus magnus sicut Deus noster?<br>
+                * Tu es Deus, qui facis mirabília.<br>
+
+                <span class="red">V/.</span> Notam fecísti in pópulis virtútem tuam, redemísti in brácchio tuo pópulum tuum.<br>
+                * Tu es Deus, qui facis mirabília.
+            </p>
+
+            <h3 class="red">Oratio</h3>
+            <p>
+                Vota, quæsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere, ut et quæ agénda sunt vídeant, et ad implénda quæ víderint convaléscant.<br>
+
+                Per Dóminum nostrum Iesum Christum, Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sæcula sæculórum.
+            </p>
+
+            Benedicámus Dómino.<br>
+            <span class="red">R/.</span>  Deo grátias.
+
+            <h2>Ad Laudes Matutinas</h2>
+
+            <h3 class="red">Hymnus</h3>
+
             <!-- p>Terra: {{$terra}}</p>
             <p>Regio: {{$regio}}</p>
             <p>Lingua: {{$lingua}}</p>

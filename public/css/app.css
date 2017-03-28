@@ -6,27 +6,30 @@ body {
 h1 { /* Liturgia Horarum */
 	font-size: 36px;
 	margin-top: 30px;
-	margin-bottom: 15px;
 }
 
 h2 { /* Ad Invitatorium */
-	font-size: 30px;
-	margin-top: 45px;
-	margin-bottom: 15px;
+	font-size: 32px;
+	margin-top: 60px;
 }
 
 h3 { /* Hymnus, Psalmodia */
-	font-size: 24px;
+	font-size: 28px;
 	margin-top: 30px;
-	margin-bottom: 15px;
 }
 
 h4 {}
 
 p {
-	margin-bottom: 15px;
+	margin-top: 15px;
 }
 
+.small {
+	display: block;
+	font-size: 80%;
+	line-height: 1.4;
+}
 
+.bold {font-weight: bold;}
 .light {color: #777;}
-.red {color: red;}
+.red {color: rgb(204,0,51);}
