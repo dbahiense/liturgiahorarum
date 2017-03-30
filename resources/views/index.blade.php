@@ -18,8 +18,8 @@
             <h2>Ad Invitatorium</h2>
 
             <p>
-                <span class="red">V/.</span> Dómine, lábia mea apéries.<br>
-                <span class="red">R/.</span> Et os meum annuntiábit laudem tuam.
+                <span class="red">&#8483;.</span> Dómine, lábia mea apéries.<br>
+                <span class="red">&#8479;.</span> Et os meum annuntiábit laudem tuam.
             </p>
 
             <p>
@@ -29,16 +29,16 @@
 
             <p>
                 <span class="red">
-                    Psalmus 94 (95)
-                </span><br>
+                    Psalmus 94 (95)<br>
+                </span>
 
                 <span class="small">
                     <strong>
-                        Invitatio ad laudem Dei    
-                    </strong><br>
+                        Invitatio ad laudem Dei<br>
+                    </strong>
 
                     <em>
-                        Adhortamini vosmetipsos per singulos dies, donec illud "hodie" vocatur.
+                        Adhortamini vosmetipsos per singulos dies, donec illud «hodie» vocatur.
                     </em>
                         (Hebr 3, 13)
                 </span>
@@ -100,8 +100,8 @@
             <h2>Ad Officium Lectionis</h2>
 
             <p>
-                <span class="red">V/.</span> Dómine, lábia mea apéries.<br>
-                <span class="red">R/.</span> Et os meum annuntiábit laudem tuam.
+                <span class="red">&#8483;.</span> Dómine, lábia mea apéries.<br>
+                <span class="red">&#8479;.</span> Et os meum annuntiábit laudem tuam.
             </p>
 
             <p>
@@ -159,11 +159,16 @@
                     Psalmus 6
                 </span><br>
 
-                <span class="light">
-                    Homo afflictus Domini clementiam implorat<br>
-                    <em>Nunc anima mea turbata est ... Pater, salvifica me ex hora hac?</em>
-                    <small>(Io 12, 27)</small>
-                </span><br>
+                <span class="small">
+                    <strong>
+                        Homo afflictus Domini clementiam implorat
+                    </strong><br>
+
+                    <em>
+                        Nunc anima mea turbata est... Pater, salvifica me ex hora hac?
+                    </em>
+                        (Io 12, 27)
+                </span>
             </p>
 
             <span class="red">
@@ -223,14 +228,19 @@
 
             <p>
                 <span class="red">
-                    Psalmus 9A (9)
-                </span><br>
+                    Psalmus 9A (9)<br>
+                </span>
 
-                <span class="light">
-                    Gratiarum actio pro victoria<br>
-                    <em>Iterum venturus est iudicare vivos et mortuos.</em>
-                    <small></small>
-                </span><br>
+                <span class="small">
+                    <strong>
+                        Gratiarum actio pro victoria<br>
+                    </strong>
+
+                    <em>
+                        Iterum venturus est iudicare vivos et mortuos.
+                    </em>
+                        ()
+                </span>
             </p>
 
             <span class="red">
@@ -297,6 +307,19 @@
                 Annuntiábo laudatiónes tuas in portis fíliæ Sion.
             </p>
 
+            <p>
+                <span class="red">
+                </span>
+
+                <span class="small">
+                    <strong>
+                    </strong>
+
+                    <em>
+                    </em>
+                </span>
+            </p>
+
             <span class=" red">II</span>
 
             <p>
@@ -352,8 +375,8 @@
             </p>
 
             <p>
-                <span class="red">V/.</span> Da mihi intelléctum, et servábo legem tuam.<br>
-                <span class="red">R/.</span> Et custódiam illam in toto corde meo.
+                <span class="red">&#8483;.</span> Da mihi intelléctum, et servábo legem tuam.<br>
+                <span class="red">&#8479;.</span> Et custódiam illam in toto corde meo.
             </p>
 
             <h3 class="red">Lectio Prior</h3>
@@ -386,9 +409,9 @@
             <h3 class="red">Responsorium <small>(Sir 1, 7a. 10. 1a. 9a)</small></h3>
 
             <p>
-                <span class="red">R/.</span> Disciplína sapiéntiæ cui reveláta est et manifestáta? Altíssimus effúdit illam super omnem carnem,<br>
+                <span class="red">&#8479;.</span> Disciplína sapiéntiæ cui reveláta est et manifestáta? Altíssimus effúdit illam super omnem carnem,<br>
                 * Et præbuit illam diligéntibus se.<br>
-                <span class="red">V/.</span> Omnis sapiéntia a Dómino Deo est, ipse creávit illam in Spíritu Sancto.<br>
+                <span class="red">&#8483;.</span> Omnis sapiéntia a Dómino Deo est, ipse creávit illam in Spíritu Sancto.<br>
                 * Et præbuit illam diligéntibus se.
             </p>
 
@@ -420,10 +443,10 @@
             <h3 class="red">Responsorium <small>(Ps 76 (77), 14b-16)</small></h3>
 
             <p>
-                <span class="red">R/.</span> Quis Deus magnus sicut Deus noster?<br>
+                <span class="red">&#8479;.</span> Quis Deus magnus sicut Deus noster?<br>
                 * Tu es Deus, qui facis mirabília.<br>
 
-                <span class="red">V/.</span> Notam fecísti in pópulis virtútem tuam, redemísti in brácchio tuo pópulum tuum.<br>
+                <span class="red">&#8483;.</span> Notam fecísti in pópulis virtútem tuam, redemísti in brácchio tuo pópulum tuum.<br>
                 * Tu es Deus, qui facis mirabília.
             </p>
 
@@ -435,7 +458,7 @@
             </p>
 
             Benedicámus Dómino.<br>
-            <span class="red">R/.</span>  Deo grátias.
+            <span class="red">&#8479;.</span>  Deo grátias.
 
             <h2>Ad Laudes Matutinas</h2>
 
